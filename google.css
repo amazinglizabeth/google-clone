@@ -85,12 +85,12 @@ html,body{
   .searchbar :hover {
     box-shadow: 0 1px 6px rgb(32 33 36 / 28%);
     border-color: rgba(223,225,229,0);
- }
+}
    
   .text{
     margin-left: 38%;
     margin-top: 1%;
-  }
+}
 
   .text > button {
     background-color: #f8f9fa;
@@ -102,10 +102,11 @@ html,body{
     padding: 10px  22px;
     line-height: 16px;
     text-align: center;
+    justify-items: center;
 }
 
 .lang > p{
-    text-align: center;
+  text-align:  center;
     margin-top: 2%;
     font-size: 13px;
     color: #3c4043;
@@ -123,7 +124,7 @@ html,body{
     color: #70757a;
     padding: 13px;
     height: 40px;
-    margin-top: 183px;
+    margin-top: 128px;
     padding-left: 28px;
 }
 
